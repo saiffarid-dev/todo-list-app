@@ -116,9 +116,9 @@ Feel free to fork this repository and submit a pull request.
 
 **Saif Farid**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/saiffarid-dev
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://linkedin.com/saif-farid
 
 ---
 
