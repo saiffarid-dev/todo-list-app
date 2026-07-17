@@ -1,6 +1,26 @@
 # ✅ To-Do List App
 
-A simple, responsive, and interactive **To-Do List App** built using **HTML, CSS, and JavaScript**. This project helps users manage daily tasks efficiently by allowing them to add, complete, and delete tasks. Tasks are also saved using Local Storage, so they remain available even after refreshing the page.
+A modern and responsive **To-Do List Application** built using **HTML, CSS, and JavaScript**. This project allows users to manage daily tasks efficiently with a clean user interface and Local Storage support, ensuring tasks remain saved even after refreshing the page.
+
+---
+
+## 🚀 Live Demo
+
+👉 https://saiffarid-dev.# ✅ To-Do List App
+
+A modern and responsive **To-Do List Application** built using **HTML, CSS, and JavaScript**. This project allows users to manage daily tasks efficiently with a clean user interface and Local Storage support, ensuring tasks remain saved even after refreshing the page.
+
+---
+
+## 🚀 Live Demo
+
+👉 https://saiffarid-dev.github.io/todo-list-app/
+
+---
+
+## 💻 Source Code
+
+👉 https://github.com/saiffarid-dev/todo-list-app
 
 ---
 
@@ -16,50 +36,38 @@ A simple, responsive, and interactive **To-Do List App** built using **HTML, CSS
 
 ---
 
-## 🚀 Live Demo
-
-🔗 **Live Demo:** https://your-live-demo-link
-
----
-
-## 💻 Source Code
-
-🔗 **GitHub Repository:** https://github.com/your-username/todo-list-app
-
----
-
 ## ✨ Features
 
-- ➕ Add New Tasks
-- ✅ Mark Tasks as Completed
-- ❌ Delete Tasks
-- 💾 Local Storage Support
-- 📱 Responsive Design
-- 🎨 Clean and Modern UI
-- ⚡ Fast and Lightweight
+- ✅ Add new tasks
+- ✅ Mark tasks as completed
+- ✅ Delete tasks
+- ✅ Local Storage support
+- ✅ Responsive design
+- ✅ Clean and modern UI
+- ✅ Beginner-friendly code structure
 
 ---
 
-## 🛠️ Built With
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
+- DOM Manipulation
 - Local Storage API
+- Git & GitHub
 
 ---
 
 ## 📂 Folder Structure
 
-```
+```text
 todo-list-app/
 │
 ├── assets/
-│
 ├── screenshots/
 │   ├── desktop-view.png
 │   └── mobile-view.png
-│
 ├── index.html
 ├── style.css
 ├── script.js
@@ -70,45 +78,42 @@ todo-list-app/
 
 ## ⚙️ Installation
 
-1. Clone the repository
+1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/todo-list-app.git
+git clone https://github.com/saiffarid-dev/todo-list-app.git
 ```
 
-2. Open the project folder.
+2. Open the project folder
+
+```bash
+cd todo-list-app
+```
 
 3. Open **index.html** in your browser.
 
 ---
 
-## 📖 How to Use
+## 📖 How It Works
 
-1. Enter a task.
-2. Click the **Add** button.
-3. Click a task to mark it as completed.
-4. Click the delete icon to remove a task.
-5. Refresh the page — your tasks remain saved.
-
----
-
-## 🎯 Future Improvements
-
-- Task Categories
-- Dark Mode
-- Due Date
-- Search Tasks
-- Edit Tasks
-- Task Priority
-- Drag & Drop Sorting
+- Enter your task.
+- Click the **Add** button.
+- Click a task to mark it as completed.
+- Delete tasks when no longer needed.
+- All tasks are automatically saved using Local Storage.
 
 ---
 
-## 🤝 Contributing
+## 🎯 Learning Outcomes
 
-Contributions are welcome!
+This project helped me practice:
 
-Feel free to fork this repository and submit a pull request.
+- DOM Manipulation
+- Event Handling
+- Local Storage
+- JavaScript Functions
+- Responsive Web Design
+- Git & GitHub Workflow
 
 ---
 
@@ -116,15 +121,140 @@ Feel free to fork this repository and submit a pull request.
 
 **Saif Farid**
 
-GitHub: https://github.com/saiffarid-dev
+**GitHub:** https://github.com/saiffarid-dev
 
-LinkedIn: https://linkedin.com/saif-farid
+**Project Repository:** https://github.com/saiffarid-dev/todo-list-app
+
+**Live Demo:** https://saiffarid-dev.github.io/todo-list-app/
 
 ---
 
-## ⭐ Support
+## ⭐ Show Your Support
 
-If you found this project helpful, please give it a ⭐ on GitHub.
+If you found this project useful, consider giving it a ⭐ on GitHub.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License..io/todo-list-app/
+
+---
+
+## 💻 Source Code
+
+👉 https://github.com/saiffarid-dev/todo-list-app
+
+---
+
+## 📸 Screenshots
+
+### 💻 Desktop View
+
+![Desktop View](screenshots/desktop-view.png)
+
+### 📱 Mobile View
+
+![Mobile View](screenshots/mobile-view.png)
+
+---
+
+## ✨ Features
+
+- ✅ Add new tasks
+- ✅ Mark tasks as completed
+- ✅ Delete tasks
+- ✅ Local Storage support
+- ✅ Responsive design
+- ✅ Clean and modern UI
+- ✅ Beginner-friendly code structure
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- DOM Manipulation
+- Local Storage API
+- Git & GitHub
+
+---
+
+## 📂 Folder Structure
+
+```text
+todo-list-app/
+│
+├── assets/
+├── screenshots/
+│   ├── desktop-view.png
+│   └── mobile-view.png
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+---
+
+## ⚙️ Installation
+
+1. Clone this repository
+
+```bash
+git clone https://github.com/saiffarid-dev/todo-list-app.git
+```
+
+2. Open the project folder
+
+```bash
+cd todo-list-app
+```
+
+3. Open **index.html** in your browser.
+
+---
+
+## 📖 How It Works
+
+- Enter your task.
+- Click the **Add** button.
+- Click a task to mark it as completed.
+- Delete tasks when no longer needed.
+- All tasks are automatically saved using Local Storage.
+
+---
+
+## 🎯 Learning Outcomes
+
+This project helped me practice:
+
+- DOM Manipulation
+- Event Handling
+- Local Storage
+- JavaScript Functions
+- Responsive Web Design
+- Git & GitHub Workflow
+
+---
+
+## 👨‍💻 Author
+
+**Saif Farid**
+
+**GitHub:** https://github.com/saiffarid-dev
+
+**Project Repository:** https://github.com/saiffarid-dev/todo-list-app
+
+**Live Demo:** https://saiffarid-dev.github.io/todo-list-app/
+
+---
+
+## ⭐ Show Your Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
 
 ---
 
